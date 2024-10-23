@@ -1,7 +1,7 @@
 # Python Loops
   Loops are used to repeat code until a certain condition is met.
 ## `while` loops:
-  Loops while a condition is either `True` or `False`. Loop is broken when condition is `False`, or when `break` is encountered. Requres a **loop control variable**; within, a action is needed, and a way to modify the **loop control variable** to ensure the loop eventually breaks.
+  Loops while a condition is either `True` or `False`. Loop is broken when condition is `False`, or when `break` is encountered. Requires a **loop control variable**; within, an action is needed, and a way to modify the **loop control variable** to ensure the loop eventually breaks.
   ```
   while x < 10:
     print("This prints 9 times")
