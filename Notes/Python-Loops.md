@@ -5,7 +5,7 @@
   ```
   x = 0
   while x < 10:
-    print("This prints 9 times")
+    print("This prints 10 times")
     x += 1
 ```
   
@@ -15,8 +15,8 @@
   Also, `i` can be used to iterate through strings, or lists. `i` begins as the first character/index in the string/list, and iterates through the remaining characters/indexes
   ```
   for i in range(20):
-    print("This prints 19 times")
+    print("This prints 20 times")
 
   for i in range(10, 1000, 100)
-    print("This prints 99 times")
+    print("This prints 10 times")
 ```
