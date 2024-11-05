@@ -18,5 +18,5 @@
     print("This prints 20 times")
 
   for i in range(10, 1000, 100)
-    print("This prints 10 times")
+    print("This prints 100 times")
 ```
